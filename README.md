@@ -281,5 +281,5 @@ This project fulfills all assessment requirements:
 
 **DevOps Assessment Submission by Bharath Kumar**
 
-📧 Repository: `https://github.com/yourusername/nextjs-devops-app`  
-🐳 GHCR Image: `ghcr.io/yourusername/nextjs-devops-app:latest`
+📧 Repository: `https://github.com/yourusername/nextjsdevopsapp`  
+🐳 GHCR Image: `ghcr.io/gudurubharatkumar/nextjs-devops-app:latest`
